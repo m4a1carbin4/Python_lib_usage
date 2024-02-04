@@ -15,5 +15,5 @@ Kafka 관련 라이브러리 예제 모음 경로.
 flask, flask_restx 기반 예제 모음.
 
 ## 기타 추가 예정 :
-huggingface (diffusers, Transformers), django, mongodb, mysql, 등등
+huggingface (diffusers, Transformers), django, mongodb, mysql
 

@@ -21,4 +21,4 @@ class test_endpoint(Resource):
             "hello fxxking world" : "get"
         }
         
-app.run(debug=True,host='localhost',port=9999,use_reloader=False)
+app.run(debug=True,host='localhost',port=9999,use_reloader=False) # use_reloader = False => off debug mode
